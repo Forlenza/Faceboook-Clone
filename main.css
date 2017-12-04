@@ -1,0 +1,74 @@
+#main{
+    background-color:#edf0f5 !important;
+    padding-top:3%;
+}
+#left{
+    width:45%;
+    margin-left:20px;
+    float:left;
+}
+#right{
+    width:48%;
+    float:right;
+}
+.desc img{
+    width:10%;
+    float:left;
+}
+.desc{
+    margin-bottom: 2%;
+}
+.text{
+    padding-top:2%;
+}
+.inputBox{
+    font-size:180%;
+    float:left;
+}
+.name{
+    float:left;
+}
+.flname{
+    width:40%;
+}/*First And Last Name*/
+.names input+input{
+    margin-left:2%;
+}
+.rInput{
+    margin-top:2%;
+    width:82.5%;
+}
+.birthday{
+    width:82.5%;
+}
+.birthday input{
+    width:75% !important;
+    margin-right:2%;
+}
+.gender{
+    font-size:200%;
+}
+.gender input{
+    width:20px;
+    height:20px;
+}
+.gender input+input{
+    margin-left:5%;
+}
+.info{
+    width:85%;
+}
+#main button{
+    background-color:#69a74e !important;
+    color:white;
+    width:50%;
+    height:50px;
+}
+#main hr {
+  border: 0;
+  clear:both;
+  display:block;
+  width: 96%;               
+  background-color:#bbf0f5;
+  height: 1px;
+}

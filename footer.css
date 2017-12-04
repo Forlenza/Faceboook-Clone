@@ -1,0 +1,21 @@
+#footer{
+    width:80%;
+}
+#footer ul{
+    list-style: none;
+}
+#footer li{
+    display:inline;
+}
+#footer li+li{
+    margin-left:20px;
+}
+#footer p{
+    margin-left:42px;
+}
+#footer button{
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:20px;
+    padding-right:20px;
+}
